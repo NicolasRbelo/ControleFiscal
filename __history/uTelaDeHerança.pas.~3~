@@ -1,0 +1,39 @@
+unit uTelaDeHerança;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
+  System.ImageList, FMX.ImgList, FMX.StdCtrls, FMX.Controls.Presentation,
+  System.Rtti, FMX.Grid.Style, Data.FMTBcd, Data.SqlExpr, Data.DB,
+  FMX.ScrollBox, FMX.Grid;
+
+type
+  TForm1 = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    btnPagamento: TSpeedButton;
+    SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
+    SpeedButton4: TSpeedButton;
+    ImageList1: TImageList;
+    StyleBook1: TStyleBook;
+    Grid1: TGrid;
+    SQLQuery1: TSQLQuery;
+    SQLDataSet1: TSQLDataSet;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.fmx}
+
+end.

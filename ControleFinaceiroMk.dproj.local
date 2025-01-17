@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/11 21:55:09.000.159,=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/12 08:07:03.000.821,=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/12 10:02:52.000.630,=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 10:08:19.000.651,=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 10:08:59.000.836,E:\Fontes\Nicolas\uPrincipal.fmx=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/01/16 10:08:59.000.836,E:\Fontes\Nicolas\uPrincipal.pas=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 13:49:38.000.029,=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 13:50:18.000.642,E:\Fontes\Nicolas\DataMudele\uDtmConnection.pas=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 13:50:18.000.642,E:\Fontes\Nicolas\DataMudele\uDtmConnection.dfm=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/01/16 15:17:37.000.086,E:\Fontes\Nicolas\ControleFinaceiroMk.dproj=C:\Users\4002h\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/16 15:35:54.000.657,=E:\Fontes\Nicolas\Unit1.pas</Transaction>
+    <Transaction>2025/01/16 15:36:11.000.996,E:\Fontes\Nicolas\Unit1.pas=E:\Fontes\Nicolas\uTelaDeHerança.pas</Transaction>
+    <Transaction>2025/01/16 15:36:11.000.996,E:\Fontes\Nicolas\Unit1.fmx=E:\Fontes\Nicolas\uTelaDeHerança.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

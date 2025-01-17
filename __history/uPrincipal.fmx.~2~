@@ -1,0 +1,82 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 1137
+  Position = DesktopCenter
+  StyleBook = StyleBook1
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Align = Bottom
+    Position.Y = 448.000000000000000000
+    Size.Width = 1137.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'Panel1Style1'
+    TabOrder = 1
+  end
+  object MainMenu1: TMainMenu
+    Left = 24
+    Top = 8
+    object MenuItem1: TMenuItem
+      Text = '&Cadastros'
+      object MenuItem2: TMenuItem
+        Locked = True
+        Text = 'Tipo de &Pagamentos'
+      end
+      object MenuItem3: TMenuItem
+        Locked = True
+        Text = 'Formas de Pagamentos'
+      end
+      object MenuItem4: TMenuItem
+        Locked = True
+        Text = '&Instru'#231#245'es(Boletos)'
+      end
+      object MenuItem5: TMenuItem
+        Locked = True
+        Text = 'Locais de Cobran'#231'as'
+      end
+      object MenuItem6: TMenuItem
+        Locked = True
+        Text = 'Ramo de Atividades'
+      end
+      object MenuItem7: TMenuItem
+        Locked = True
+        Text = 'Grupo de Clientes'
+      end
+      object MenuItem8: TMenuItem
+        Locked = True
+        Text = 'Transportadoras'
+      end
+      object MenuItem9: TMenuItem
+        Locked = True
+        Text = 'Reperesentantes'
+      end
+      object MenuItem10: TMenuItem
+        Locked = True
+        Text = 'Clientes'
+      end
+      object MenuItem11: TMenuItem
+        Locked = True
+        Text = 'Contas'
+      end
+      object MenuItem12: TMenuItem
+        Locked = True
+        Text = 'Centro de Custos'
+      end
+      object MenuItem13: TMenuItem
+        Locked = True
+        Text = 'Fornecedores'
+      end
+    end
+  end
+  object StyleBook1: TStyleBook
+    Styles = <
+      item
+      end>
+  end
+end
